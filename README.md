@@ -143,7 +143,6 @@ python train.py
 
 **Vasanth Boyez**
 
-
 ---
 
 <p align="center">
