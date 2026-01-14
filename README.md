@@ -131,16 +131,34 @@ python train.py
 
 ## 🎓 Who is this for?
 
-* Students learning SOC incident response workflows
-* Cybersecurity training labs and university coursework
-* Blue-team practise for structured response sequencing
-* AI research experiments on decision-making under uncertainty
+| Audience     | Use                      |
+| ------------ | ------------------------ |
+| Students     | Learn SOC workflows      |
+| Blue Teams   | Drill response playbooks |
+| Universities | AI security labs         |
+| Researchers  | Decision modelling       |
+
+
+---
+
+## 🧪 Use Cases
+
+SOC onboarding
+
+Cybersecurity education
+
+Blue team drills
+
+AI research experiments
+
+Lightweight cyber-range replacement
+
 
 ---
 
 ## 👨‍🚀 Author
 
-**Vasanth Boyez**
+**VASANTH BOYEZ**
 
 ---
 
