@@ -1,5 +1,3 @@
-# llm_client.py
-
 import os
 from typing import List, Dict
 from openai import OpenAI

@@ -1,6 +1,6 @@
 from dataclasses import dataclass, field
 from typing import List, Dict
-
+# Define possible actions
 ACTIONS = [
     "view_alert_details",
     "check_endpoint_logs",
@@ -12,7 +12,7 @@ ACTIONS = [
     "close_incident",
 ]
 
-
+# Define incident scenarios
 @dataclass
 class IncidentScenario:
     name: str
