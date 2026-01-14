@@ -78,7 +78,6 @@ soc_incident_trainer/
 
 ## 🖼 Live Simulator Preview
 
-> Add 2–3 screenshots inside `/assets/` and they will render here.
 
 <p align="center">
   <img src="assets/ui1.png" width="32%">
